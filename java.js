@@ -6,4 +6,5 @@ const color = prompt("what's your favourite colour?")
 
 
 document.getElementById("title").innerHTML = `Hi there ${userName}` 
-document.getElementById("infoUser").innerHTML = `Here's your info: ${userName} ${userSureName} ${userAge} ${color}`
+document.getElementById("infoUser").innerHTML = `Here's your info: 
+ ${userName} ${userSureName} ${userAge} ${color}`
